@@ -1,0 +1,5 @@
+.venv
+.venv/*
+config*
+state.json
+__pycache__
